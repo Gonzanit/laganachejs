@@ -1,0 +1,122 @@
+[
+    {
+        "id": "lemon-pie",
+        "titulo": "Lemon Pie",
+        "imagen": "./img/tortas/lemon_pie.JPG",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 700
+    },
+    {
+        "id": "diamanta",
+        "titulo": "Torta Diamanta",
+        "imagen": "./img/tortas/diamanta.JPG",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "brownie",
+        "titulo": "Brownie",
+        "imagen": "./img/tortas/brownie.JPG",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "rogel",
+        "titulo": "Torta Rogel",
+        "imagen": "./img/tortas/rogel.JPG",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 900
+    },
+    {
+        "id": "golosina",
+        "titulo": "Torta Golosinas",
+        "imagen": "./img/tortas/golosina.JPG",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "cupcake_chocolate",
+        "titulo": "Cupcake Chocolate x12",
+        "imagen": "./img/cupcakes/cupcake_chocolate.JPG",
+        "categoria": {
+            "nombre": "Cupcakes",
+            "id": "cupcakes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cupcake_vainilla",
+        "titulo": "Cupcake Vainilla x12",
+        "imagen": "./img/cupcakes/cupcake_vainilla.JPG",
+        "categoria": {
+            "nombre": "Cupcakes",
+            "id": "cupcakes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cupcake_mixto",
+        "titulo": "Cupacke 6 Vainilla y 6 Chocolate",
+        "imagen": "./img/cupcakes/cupcake_mixto.JPG",
+        "categoria": {
+            "nombre": "Cupcakes",
+            "id": "cupcakes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cupcake_deco",
+        "titulo": "Cupcake con Diseño x12",
+        "imagen": "./img/cupcakes/cupcake_dibujo.JPG",
+        "categoria": {
+            "nombre": "Cupcakes",
+            "id": "cupcakes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "dibujo_personalizado",
+        "titulo": "Torta con Dibujo Personalizado",
+        "imagen": "./img/personalizado/texto_cumple.JPG",
+        "categoria": {
+            "nombre": "Personalziados",
+            "id": "personalziados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cumpleanios",
+        "titulo": "Torta de Cumpleaños",
+        "imagen": "./img/personalizado/cumple_años.JPG",
+        "categoria": {
+            "nombre": "Personalziados",
+            "id": "personalziados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cupcake_personalizado",
+        "titulo": "Cupcakes Personalizados",
+        "imagen": "./img/personalizado/cupcake_personalizado.JPG",
+        "categoria": {
+            "nombre": "Personalziados",
+            "id": "personalziados"
+        },
+        "precio": 1000
+    }
+]
